@@ -1,0 +1,72 @@
+.heading-text{
+    height: 50px;
+    display: flex;
+    background-color: #ca2b92;
+}
+.bi{
+    font-size: 12px;
+}
+.Box-1{
+    margin-left: 30px;
+    margin-top: 15px;
+}
+.Box-2{
+    margin-top: 15px;
+    margin-left: 700px;
+    display: flex;
+    color: #fff;
+    font-size: 20px;
+}
+.Text-HotLine{
+    font-size: 20px;
+    line-height: 20px;
+    color: #fff;
+    list-style: none;
+}
+
+.child{
+    margin-left: 50px;
+    list-style: none;
+}
+.NumberHotline{
+    color: yellow;
+    font: medium;
+    font-weight: bold;
+}
+.heading-1{
+    display: flex;
+}
+.List-option{
+    display: flex;
+    
+}
+.child a{
+    color: white;
+    text-decoration: none;
+}
+.child-2{
+    list-style: none;
+}
+.child-2 a{
+    
+    text-decoration: none;
+    margin-top: 30px;
+    margin-left: 40px;
+    list-style: none;
+    display: flex;
+    font-size: 20px;
+    font-weight: bolder;
+    color: gray;
+}
+.MainOption{
+    width: 70%;
+}
+.Image-logo{
+    width: 30%;
+}
+.Image-logo img{
+    width: 230px;
+    height: auto;
+    margin-left: 100px;
+    margin-top: 10px;
+}
